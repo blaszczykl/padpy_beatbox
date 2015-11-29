@@ -1,0 +1,7 @@
+{
+    "bpm": 120,
+    "rpb": 6,
+    "tracks": 7,
+    "sample_type": 'notes',
+    "fs": 44100
+}

@@ -1,0 +1,12 @@
+{
+    "wave": ['sin', 'sin', 'sin', 'sin'],
+    "ampl": [1, 1, 0.75, 0.1],
+    "expo": [1, 2, 1, 1],
+    "freq": [2, 1, 1, 1],
+    "phas": [0, 0, 0.25, 0.5],
+    "attack": 0.02,
+    "decay": 0.98,
+    "dampen": 'log',
+    "sustain": 0,
+    "release": 0
+}
